@@ -1,4 +1,4 @@
-<img src="![Microsoft-Power-BI-Logo-2016-2020](https://user-images.githubusercontent.com/93271677/200415034-1526c74d-d448-4962-ad7b-47782db75246.jpg)"/>
+![Microsoft-Power-BI-Logo-2016-2020](https://user-images.githubusercontent.com/93271677/200415034-1526c74d-d448-4962-ad7b-47782db75246.jpg)
 
 🚀 Descrição 
 
