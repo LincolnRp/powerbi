@@ -1,4 +1,6 @@
 
+![Screenshot_1](https://user-images.githubusercontent.com/93271677/200414857-70069326-b2e5-4e98-9e1e-900c2cad6d01.png)
+
 ## 🚀 Descrição do Projeto
 
 Dashboard de vendas de produtos. </br>
